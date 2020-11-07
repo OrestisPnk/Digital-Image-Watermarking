@@ -1,2 +1,2 @@
 # Digital Image Watermarking
-Testing waterkmarking techniques, both in spatial and frequency domain of an image.
+Waterkmarking an image, both in spatial and frequency domain, using, on a random order, the blocks of an equal size binary image. The order is specified by a pseudorandom sequence generator.
